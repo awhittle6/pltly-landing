@@ -28,20 +28,20 @@ export default function Hero() {
           </motion.p>
         </div>
       </div>
-      <motion.div
+      {/* <motion.div
         className="relative h-64 sm:h-72 md:h-96 lg:absolute lg:inset-y-0 lg:right-0 lg:w-1/2 lg:h-full"
         initial={{ opacity: 0, x: 100 }}
         animate={{ opacity: 1, x: 0 }}
         transition={{ duration: 0.8, delay: 0.4 }}
       >
-        {/* <Image
+        <Image
           className="absolute inset-0 w-full h-full object-cover"
           src="/placeholder.svg"
           alt="Person using pltly app"
           width={800}
           height={600}
-        /> */}
-      </motion.div>
+        />
+      </motion.div> */}
     </div>
   )
 }
