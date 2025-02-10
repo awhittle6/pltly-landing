@@ -30,7 +30,7 @@ export default function Footer() {
         </div>
         <div className="mt-8 border-t border-gray-200 pt-8 md:flex md:items-center md:justify-between">
           <div className="flex space-x-6 md:order-2">{/* Add social media icons here if needed */}</div>
-          <p className="mt-8 text-base text-gray-400 md:mt-0 md:order-1">&copy; 2023 pltly. All rights reserved.</p>
+          <p className="mt-8 text-base text-gray-400 md:mt-0 md:order-1">&copy; 2025 pltly. All rights reserved.</p>
         </div>
       </div>
     </motion.footer>
